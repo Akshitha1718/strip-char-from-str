@@ -1,0 +1,1 @@
+# strip-char-from-str
